@@ -1,45 +1,45 @@
 [
     {
         "title": "General",
-        "icon": "bi-gear-fill",
+        "icon": "fa-solid fa-gear",
         "childrens": [
             {
                 "title": "Home",
-                "icon": "bi-house-fill",
+                "icon": "fa-solid fa-house",
                 "path": "/"
             },
             {
                 "title": "About",
-                "icon": "bi-info-circle-fill",
+                "icon": "fa-solid fa-info",
                 "path": "/about"
             },
             {
                 "title": "Contact",
-                "icon": "bi-phone-fill",
+                "icon": "fa-solid fa-square-phone",
                 "childrens": [
                     {
                         "title": "Facebook",
-                        "icon": "bi-facebook"
+                        "icon": "fa-brands fa-square-facebook"
                     },
                     {
                         "title": "Twitter",
-                        "icon": "bi-twitter"
+                        "icon": "fa-brands fa-twitter"
                     },
                     {
                         "title": "Instagram",
-                        "icon": "bi-instagram"
+                        "icon": "fa-brands fa-square-instagram"
                     }
                 ]
             },
             {
                 "title": "FAQ",
-                "icon": "bi-question-circle-fill"
+                "icon": "fa-solid fa-circle-info"
             }
         ]
     },
     {
         "title": "Account",
-        "icon": "bi-info-circle-fill",
+        "icon": "fa-solid fa-id-badge",
         "childrens": [
             {
                 "title": "Login",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Profile",
-        "icon": "bi-person-fill",
+        "icon": "fa-solid fa-user",
         "childrens": [
             {
                 "title": "Profile",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Advance",
-        "icon": "bi-view-list",
+        "icon": "fa-solid fa-list-check",
         "childrens": [
             {
                 "title": "Search",
@@ -115,12 +115,12 @@
     },
     {
         "title": "Support",
-        "icon": "bi-question-circle-fill",
+        "icon": "fa-regular fa-circle-question",
         "path": "/support"
     },
     {
         "title": "Report Bug",
-        "icon": "bi-bug",
+        "icon": "fa-solid fa-bug",
         "path": "/report-bug"
     }
 ]
